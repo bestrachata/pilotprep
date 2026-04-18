@@ -25,11 +25,12 @@ const MODULES = [
     href: "/multitask",
   },
   {
-    id: "spatial",
-    title: "Spatial",
-    subtitle: "Instrument interpretation",
-    symbol: "⊙",
-    active: false,
+    id: "aptitude",
+    title: "Aptitude",
+    subtitle: "Spatial & abstract reasoning",
+    symbol: "⬡",
+    active: true,
+    href: "/aptitude",
   },
   {
     id: "attention",
